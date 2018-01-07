@@ -1,0 +1,9 @@
+{
+	"default": [
+		"build"
+	],
+	"build": [
+    "newer:concat",
+		"newer:copy"
+	]
+}

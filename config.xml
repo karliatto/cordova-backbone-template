@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="cordava.backbone" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Template</name>
+    <description>
+        Template app
+    </description>
+    <engine name="android" spec="^7.0.0" />
+    <engine name="browser" spec="^5.0.3" />
+</widget>
