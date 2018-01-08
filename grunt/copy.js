@@ -59,8 +59,8 @@ module.exports = {
 			},
 			{
 				nonull: true,
-				src: 'node_modules/onsenui/js/onsenui.min.js',
-				dest: 'www/vendor/onsen/js/onsenui.min.js'
+				src: 'node_modules/onsenui/js/onsenui.js',
+				dest: 'www/vendor/onsen/js/onsenui.js'
 			}
 		]
 	}

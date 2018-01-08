@@ -1,5 +1,5 @@
 {
-  "name": "cordova-backbone-tempalte",
+  "name": "cordova-backbone-template",
   "version": "1.0.0",
   "description": "A template for app with backbone and cordova",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:karliatto/cordova-backbone-tempalte"
+    "url": "git@github.com:karliatto/cordova-backbone-template"
   },
   "license": "MIT",
   "scripts": {
